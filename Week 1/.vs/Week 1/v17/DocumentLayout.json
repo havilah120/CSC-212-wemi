@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GLP\\Week 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AEAEC1-F7E0-4ABC-B321-4F53F68CE4F6}|Week 1.vcxproj|C:\\Users\\12149\\Downloads\\CubeCreation\\cubeNoOOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cubeNoOOP.cpp",
+              "DocumentMoniker": "C:\\Users\\12149\\Downloads\\CubeCreation\\cubeNoOOP.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Users\\12149\\Downloads\\CubeCreation\\cubeNoOOP.cpp",
+              "ToolTip": "C:\\Users\\12149\\Downloads\\CubeCreation\\cubeNoOOP.cpp",
+              "RelativeToolTip": "..\\..\\Users\\12149\\Downloads\\CubeCreation\\cubeNoOOP.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-01T20:55:49.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
