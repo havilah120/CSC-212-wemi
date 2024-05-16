@@ -1,1 +1,4 @@
-﻿LINK : fatal error LNK1168: cannot open C:\GLP\Week 1\Debug\Week 1.exe for writing
+﻿  cubeNoOOP.cpp
+/Users/12149/Downloads/CubeCreation/cubeNoOOP.cpp(1,1): error C1083: Cannot open source file: '..\..\Users\12149\Downloads\CubeCreation\cubeNoOOP.cpp': No such file or directory
+  (compiling source file '/Users/12149/Downloads/CubeCreation/cubeNoOOP.cpp')
+  
