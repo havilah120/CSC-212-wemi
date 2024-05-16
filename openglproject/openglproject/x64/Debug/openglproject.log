@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+  openglproject.vcxproj -> C:\GLP\openglproject\x64\Debug\openglproject.exe
