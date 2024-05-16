@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\GLP\gravity\test.cpp(48,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GLP\gravity\test.cpp(58,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GLP\gravity\test.cpp(157,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gravity.vcxproj -> C:\GLP\gravity\Debug\gravity.exe
